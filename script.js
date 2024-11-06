@@ -1,7 +1,7 @@
 const fname = document.getElementById("First Name");
 const lname = document.getElementById("Last Name");
 const phone = document.getElementById("Phone Number");
-const email = document.getElementById("Email id");
+const email = document.getElementById("Email ID");
 
 const data = {
     fname: "",
